@@ -1,0 +1,21 @@
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor Settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+
+# Temporary & Log files
+*.log
+*.tmp
+*.bak
+
+# Local helper scripts
+add-problem.ps1
+
